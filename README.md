@@ -20,3 +20,10 @@ SafeDeal의 **확정 문서** 저장소입니다. 흐르는 논의(회의록·�
 - `adr/` — 아키텍처 결정 기록 (Architecture Decision Records)
 - `process/` — 개발 프로세스 (deferred 규칙, 커밋 컨벤션 등)
 
+
+
+
+
+
+
+
